@@ -52,11 +52,11 @@ git clone https://github.com/<your-username>/lab03-login-test.git
 cd lab03-login-test
 ```
 
-# (Optional) Create virtual environment
+### (Optional) Create virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# Install dependencies
+### Install dependencies
 pip install selenium webdriver-manager
 
 ---
