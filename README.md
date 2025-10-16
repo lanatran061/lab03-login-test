@@ -63,11 +63,11 @@ pip install selenium webdriver-manager
 
 ## 📜 License
 This project is for **educational purposes only**.  
-© 2025 — *Introduction to Software Engineering, Vancouver Island University.*
+© 2025 — *Introduction to Software Engineering, Posts and Telecommunication Institute of Technology HCM.*
 
 ---
 
 ## 👤 Author
-**Your Name**  
-Student — Vancouver Island University (VIU)  
+**Trần Nguyễn Lan Anh**  
+Student — Posts and Telecommunication Institute of Technology HCM
 📅 October 2025
